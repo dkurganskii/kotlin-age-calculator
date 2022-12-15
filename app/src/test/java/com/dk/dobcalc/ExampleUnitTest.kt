@@ -1,4 +1,4 @@
-package com.dk.test
+package com.dk.dobcalc
 
 import org.junit.Test
 
